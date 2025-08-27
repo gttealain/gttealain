@@ -3,12 +3,13 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<a href="https://github.com/gttealain">
+  <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![GitHub Followers](https://img.shields.io/github/followers/gttealain?label=Follow&style=social)](https://github.com/gttealain)
+[![GitHub Stars](https://img.shields.io/github/stars/gttealain?style=social)](https://github.com/gttealain)
+
 </div>
 
 
