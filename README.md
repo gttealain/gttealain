@@ -12,10 +12,9 @@
 </div>
 
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+🌱 Currently immersed in the world of Kali Linux, I am interested in cybersecurity, as well as projects on microcontrollers and cubesats. 
 
-💻 Passionately building an **Arch Installer** project. 
-
+💻 I am currently studying Telecommunications Engineering and I am a computer technician.
 
 <div align="Center">
 <h1>Skills</h1>
@@ -23,9 +22,9 @@
 
 <div align="Center">
 
-| Website | Programming |
+| Lenguages | Other tools |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,matlab"/> | <img src="https://skillicons.dev/icons?i=vscode,github,git,raspberrypi,latex,arduino"/> |
 
 </div>
 
@@ -36,7 +35,7 @@
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,apple,kali,ubuntu"/>
 
 </div>
 
@@ -69,11 +68,11 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="carlosaalain@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎|
 
 </div>
 
 ------
 
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+
+Last Edited on: 27/08/2025
